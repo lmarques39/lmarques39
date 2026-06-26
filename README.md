@@ -28,4 +28,4 @@ Tools      Git · Vercel · VS Code
 
 ---
 
-**lfrm39@gmail.com** · [linkedin.com/in/luís-marques-503b1b214](https://www.linkedin.com/in/lu%C3%ADs-marques-503b1b214/)
+**lfrm39@gmail.com** · [linkedin.com/in/luís-marques39](https://www.linkedin.com/in/luís-marques39/)
