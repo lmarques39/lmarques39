@@ -1,6 +1,6 @@
 # Luís Marques
 
-Junior web developer based in Viana do Castelo, Portugal.
+Freelancer web developer based in Viana do Castelo, Portugal.
 
 I build production websites with **Next.js**, **React**, and **Sanity CMS** — focused on clean architecture, fast delivery, and maintainable code.
 
